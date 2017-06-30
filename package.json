@@ -1,6 +1,6 @@
 {
   "name": "npm-test-smartangels",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "This is a test to npm smartangels",
   "main": "index.js",
   "scripts": {
