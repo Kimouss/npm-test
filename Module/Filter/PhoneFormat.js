@@ -13,7 +13,7 @@ require('angular')
             }
 
             var base = tel.slice(3, 4);
-            var number = tel.slice(3, tel.length).match(/.{2}/g).join(' ');
+            var number = tel.slice(4, tel.length).match(/.{2}/g).join(' ');
 
             return country + ' ' + base + ' ' + number;
         };
