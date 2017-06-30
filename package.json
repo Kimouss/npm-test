@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-smartangels",
+  "version": "1.1.0",
+  "description": "This is a test to npm smartangels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimouss/npm-test.git"
+  },
+  "keywords": [
+    "smartangels"
+  ],
+  "author": "Kimouss <kim.pham@smartangels.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimouss/npm-test/issues"
+  },
+  "homepage": "https://github.com/Kimouss/npm-test#readme"
+}
